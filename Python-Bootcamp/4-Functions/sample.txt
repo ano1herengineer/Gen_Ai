@@ -1,0 +1,3 @@
+Hello World How are you
+This file will be used to count the frequency of each word in the txt file.
+Let us see wheteher the code works fine or not.
