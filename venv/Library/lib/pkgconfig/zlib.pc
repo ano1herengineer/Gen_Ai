@@ -1,8 +1,8 @@
-prefix=X:/Gen Ai/venv/Library
-exec_prefix=X:/Gen Ai/venv/Library
-libdir=X:/Gen Ai/venv/Library/lib
-sharedlibdir=X:/Gen Ai/venv/Library/lib
-includedir=X:/Gen Ai/venv/Library/include
+prefix=D:/Codebase/Gen_Ai/venv/Library
+exec_prefix=D:/Codebase/Gen_Ai/venv/Library
+libdir=D:/Codebase/Gen_Ai/venv/Library/lib
+sharedlibdir=D:/Codebase/Gen_Ai/venv/Library/lib
+includedir=D:/Codebase/Gen_Ai/venv/Library/include
 
 Name: zlib
 Description: zlib compression library

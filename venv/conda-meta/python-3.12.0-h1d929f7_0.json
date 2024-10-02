@@ -17,7 +17,7 @@
     "zlib >=1.2.13,<1.3.0a0",
     "pip"
   ],
-  "extracted_package_dir": "C:\\Users\\DELL\\.conda\\pkgs\\python-3.12.0-h1d929f7_0",
+  "extracted_package_dir": "C:\\Users\\Prash\\.conda\\pkgs\\python-3.12.0-h1d929f7_0",
   "files": [
     "DLLs/_asyncio.pyd",
     "DLLs/_bz2.pyd",
@@ -1918,12 +1918,12 @@
   "fn": "python-3.12.0-h1d929f7_0.conda",
   "license": "PSF-2.0",
   "link": {
-    "source": "C:\\Users\\DELL\\.conda\\pkgs\\python-3.12.0-h1d929f7_0",
+    "source": "C:\\Users\\Prash\\.conda\\pkgs\\python-3.12.0-h1d929f7_0",
     "type": 1
   },
   "md5": "a3c0296d2fab2569f87d70a6f17f8f3d",
   "name": "python",
-  "package_tarball_full_path": "C:\\Users\\DELL\\.conda\\pkgs\\python-3.12.0-h1d929f7_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Prash\\.conda\\pkgs\\python-3.12.0-h1d929f7_0.conda",
   "paths_data": {
     "paths": [
       {

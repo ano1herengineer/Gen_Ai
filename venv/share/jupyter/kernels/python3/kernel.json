@@ -1,6 +1,6 @@
 {
  "argv": [
-  "python",
+  "d:/Codebase/Gen_Ai/venv\\python.exe",
   "-m",
   "ipykernel_launcher",
   "-f",
