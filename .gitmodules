@@ -1,3 +1,6 @@
 [submodule "13-ANN-Classification-Churn"]
 	path = 13-ANN-Classification-Churn
 	url = https://github.com/ano1herengineer/ANN-Classification-Churn
+[submodule "14-Deep-Learning-with-RNN-Project"]
+	path = 14-Deep-Learning-with-RNN-Project
+	url = https://github.com/ano1herengineer/Deep-Learning-with-RNN-Project
